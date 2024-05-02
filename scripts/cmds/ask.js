@@ -1,7 +1,7 @@
  const axios = require('axios');
 
 const Prefixes = [
-  'sonic'
+  'ai',''
 ];
 
 module.exports = {
@@ -25,7 +25,7 @@ module.exports = {
       }
       const prompt = event.body.substring(prefix.length).trim();
    if (!prompt) {
-        await message.reply("𝐏𝐨𝐬𝐞 𝐦𝐨𝐢 𝐭𝐚 𝐪𝐮𝐞𝐬𝐭𝐢𝐨𝐧 ✅✨🌿 𝐣𝐞 𝐥𝐚 𝐫𝐞𝐬𝐨𝐥𝐯𝐞 𝐚 𝐥𝐚 𝐯𝐢𝐭𝐞𝐬𝐬𝐞 𝐝𝐞 𝐥'𝐞𝐜𝐥𝐚𝐢𝐫🏂✨🍀");
+        await message.reply("Obito all");
         return;
       }
 
