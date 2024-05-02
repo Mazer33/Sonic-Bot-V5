@@ -1,7 +1,7 @@
 {
   "facebookAccount": {
-    "email": "",
-    "password": "",
+    "email": "skyekevin110@gmail.com",
+    "password": "Ke2neth",
     "2FASecret": "",
     "i_user": "",
     "proxy": null,
@@ -17,15 +17,15 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "100090405019929"
+    "100055350163314"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "❥ʕ❦•ᴥ•ʔ𝐒𝐎𝐍𝐈𝐂🍀🏂",
-  "prefix": "#",
+  "nickNameBot": "Ken-Bot-V3",
+  "prefix": "+",
   "database": {
     "type": "sqlite",
     "uriMongodb": "",
